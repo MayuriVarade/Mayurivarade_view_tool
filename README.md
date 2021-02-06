@@ -19,8 +19,10 @@ Or install it yourself as:
     $ gem install mayurivarade_view_tool
 
 ## Usage
+```ruby
+MayurivaradeViewTool::Renderer.copyright 'Mayuri Varade', 'All rights reserved'
+```
 
-TODO: Write usage instructions here
 
 ## Development
 
