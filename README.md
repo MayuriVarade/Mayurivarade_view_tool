@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 ```ruby
 MayurivaradeViewTool::Renderer.copyright 'Mayuri Varade', 'All rights reserved'
-```
+``
 
 
 ## Development
